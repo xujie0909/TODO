@@ -1,7 +1,9 @@
-idea 快捷键 ，使用方法探索
+﻿idea 快捷键 ，使用方法探索
 maven   
 docker
 jdk8     80%
 事务 
-java 基础 很重要
-String 的方法
+
+通过读别人代码学习
+1、java 基础 很重要
+2、String 的方法
